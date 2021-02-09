@@ -1,6 +1,6 @@
 /**
 *
-* @author Eren Can İNANCI - erencan_inanci@hotmail.com / b171210308@sakarya.edu.tr
+* @author Eren
 * @since 28.02.2019 23:22
 * <p>
 * 
